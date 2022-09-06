@@ -1,0 +1,566 @@
+,Ticker,Company Name,Industry,Country,Market Cap
+7,AAPL,Apple Inc,Technology,US,2503983.968245185
+16,ABMD,ABIOMED Inc,Health Care,US,11876.20130443232
+17,ABNB,Airbnb Inc,"Hotels, Restaurants & Leisure",US,73718.10934893969
+59,ADBE,Adobe Inc,Technology,US,172289.51943268307
+63,ADI,Analog Devices Inc,Semiconductors,US,76446.58622120452
+69,ADP,Automatic Data Processing Inc,Technology,US,99092.4891792236
+72,ADSK,Autodesk Inc,Technology,US,43169.8130716822
+88,AEP,American Electric Power Company Inc,Utilities,US,51933.3633851768
+135,AKAM,Akamai Technologies Inc,Technology,US,14029.55686292584
+151,ALGN,Align Technology Inc,Health Care,US,19098.23269553247
+164,ALNY,Alnylam Pharmaceuticals Inc,Biotechnology,US,24659.45789279455
+186,AMAT,Applied Materials Inc,Semiconductors,US,78494.62640133275
+190,AMD,Advanced Micro Devices Inc,Semiconductors,US,129533.11373020965
+193,AMGN,Amgen Inc,Biotechnology,US,129651.1894283609
+211,AMZN,Amazon.com Inc,Retail,US,1299015.095101416
+224,ANSS,ANSYS Inc,Technology,US,21299.60788332951
+232,APA,APA Corp (US),Energy ,US,12669.37281390295
+268,ARCC,Ares Capital Corp,Financial Services,US,10184.58
+343,ATVI,Activision Blizzard Inc,Media,US,60652.23147181948
+368,AVGO,Broadcom Inc,Semiconductors,US,201997.6878951941
+396,AZPN,Aspen Technology Inc,Technology,US,61324.49
+454,BIIB,Biogen Inc,Biotechnology,US,28446.51069943811
+470,BKNG,Booking Holdings Inc,"Hotels, Restaurants & Leisure",US,74661.890084298
+503,BMRN,Biomarin Pharmaceutical Inc,Biotechnology,US,16625.877465214922
+556,BSY,Bentley Systems Inc,Technology,US,10410.388278519657
+651,CDNS,Cadence Design Systems Inc,Technology,US,46056.715260352095
+654,CDW,CDW Corp,Electrical Equipment,US,22788.485265644245
+660,CEG,Constellation Energy Corp,Utilities,US,26497.342963505816
+687,CG,Carlyle Group Inc,Financial Services,US,11656.341885418862
+704,CHK,Chesapeake Energy Corp,Energy ,US,12053.450594671089
+711,CHRW,CH Robinson Worldwide Inc,Logistics & Transportation,US,14291.176356291086
+712,CHTR,Charter Communications Inc,Media,US,65408.97512083173
+724,CINF,Cincinnati Financial Corp,Insurance,US,15413.690712340767
+769,CME,CME Group Inc,Financial Services,US,69978.6831885686
+805,COIN,Coinbase Global Inc,Financial Services,US,14692.87722662872
+820,COST,Costco Wholesale Corp,Retail,US,229946.4904102115
+831,CPRT,Copart Inc,Commercial Services & Supplies,US,27665.08780824837
+865,CRWD,CrowdStrike Holdings Inc,Technology,US,40002.48544953894
+870,CSCO,Cisco Systems Inc,Communications,US,184645.58257037404
+872,CSGP,CoStar Group Inc,Professional Services,US,28068.854404259757
+885,CSX,CSX Corp,Road & Rail,US,66892.37672165137
+887,CTAS,Cintas Corp,Commercial Services & Supplies,US,41061.114872228274
+898,CTSH,Cognizant Technology Solutions Corp,Technology,US,32273.532873002678
+901,CTXS,Citrix Systems Inc,Technology,US,13047.592228039925
+967,DDOG,Datadog Inc,Technology,US,30676.48821161149
+997,DLTR,Dollar Tree Inc,Retail,US,30585.311895876403
+1009,DOCU,DocuSign Inc,Technology,US,10886.950962274686
+1014,DOX,Amdocs Ltd,Technology,US,10291.535042298803
+1048,DXCM,Dexcom Inc,Health Care,US,32191.70725257583
+1057,EA,Electronic Arts Inc,Media,US,34847.41986372274
+1062,EBAY,eBay Inc,Retail,US,24232.61381071499
+1118,ENPH,Enphase Energy Inc,Semiconductors,US,37802.0598783048
+1123,ENTG,Entegris Inc,Semiconductors,US,13716.627153215626
+1136,EQIX,Equinix Inc,Real Estate,US,59499.419002
+1142,ERIE,Erie Indemnity Co,Insurance,US,10040.105940224774
+1159,ETSY,ETSY Inc,Retail,US,13385.09277053312
+1182,EXC,Exelon Corp,Utilities,US,43716.65014965669
+1186,EXPD,Expeditors International of Washington Inc,Logistics & Transportation,US,16634.388981551685
+1187,EXPE,Expedia Group Inc,"Hotels, Restaurants & Leisure",US,16086.73443297552
+1200,FANG,Diamondback Energy Inc,Energy ,US,23807.583855968303
+1204,FAST,Fastenal Co,Trading Companies & Distributors,US,29004.041136027477
+1254,FISV,Fiserv Inc,Technology,US,64879.436523785895
+1255,FITB,Fifth Third Bancorp,Banking,US,23104.00310069237
+1297,FOXA,Fox Corp,Media,US,17916.62988838059
+1329,FSLR,First Solar Inc,Semiconductors,US,13474.617781401435
+1345,FTNT,Fortinet Inc,Technology,US,38322.10794297838
+1408,GFS,Globalfoundries Inc,Semiconductors,US,31240.60652098693
+1423,GILD,Gilead Sciences Inc,Biotechnology,US,79989.90572879447
+1440,GLPI,Gaming and Leisure Properties Inc,Real Estate,US,12379.544794
+1468,GOOGL,Alphabet Inc,Media,US,1412379.588604426
+1532,HAS,Hasbro Inc,Leisure Products,US,10869.163003677562
+1534,HBAN,Huntington Bancshares Inc,Banking,US,19210.028389821982
+1597,HOLX,Hologic Inc,Health Care,US,16856.579373521192
+1598,HON,Honeywell International Inc,Industrial Conglomerates,US,125906.3551963302
+1623,HST,Host Hotels & Resorts Inc,Real Estate,US,12415.67882
+1660,IBKR,Interactive Brokers Group Inc,Financial Services,US,26132.83507672571
+1682,IDXX,IDEXX Laboratories Inc,Health Care,US,28625.119160064667
+1685,IEP,Icahn Enterprises LP,Industrial Conglomerates,US,16467.03567845642
+1703,ILMN,Illumina Inc,Life Sciences Tools & Services,US,30841.810847538032
+1732,INCY,Incyte Corp,Biotechnology,US,15616.85444718206
+1753,INTC,Intel Corp,Semiconductors,US,128189.3209240176
+1757,INTU,Intuit Inc,Technology,US,118798.2059310127
+1800,ISRG,Intuitive Surgical Inc,Health Care,US,72732.83333710812
+1830,JBHT,J B Hunt Transport Services Inc,Road & Rail,US,17517.4298206001
+1841,JKHY,Jack Henry & Associates Inc,Technology,US,13938.285686260238
+1873,KDP,Keurig Dr Pepper Inc,Beverages,US,53571.50333804174
+1879,KHC,Kraft Heinz Co,Food Products,US,45721.1560303931
+1885,KLAC,KLA Corp,Semiconductors,US,47539.71760321259
+1952,LCID,Lucid Group Inc,Automobiles,US,25359.75071146424
+2009,LKQ,LKQ Corp,Distributors,US,14666.14331413732
+2022,LNT,Alliant Energy Corp,Utilities,US,15429.454778595233
+2036,LPLA,LPL Financial Holdings Inc,Financial Services,US,17489.526695701665
+2043,LRCX,Lam Research Corp,Semiconductors,US,58933.51957890808
+2090,MAR,Marriott International Inc,"Hotels, Restaurants & Leisure",US,50055.550720756735
+2115,MCHP,Microchip Technology Inc,Semiconductors,US,35635.23054437088
+2121,MDB,MongoDB Inc,Technology,US,16679.31583223587
+2126,MDLZ,Mondelez International Inc,Food Products,US,83234.48466450653
+2148,META,Meta Platforms Inc,Media,US,430887.5957315182
+2205,MNST,Monster Beverage Corp,Beverages,US,46571.40917219258
+2230,MPWR,Monolithic Power Systems Inc,Semiconductors,US,19858.18805832185
+2241,MRNA,Moderna Inc,Biotechnology,US,54208.51684017215
+2248,MRVL,Marvell Technology Group Ltd,Semiconductors,US,48974.38
+2253,MSFT,Microsoft Corp,Technology,US,1909667.8037647335
+2262,MTCH,Match Group Inc,Media,US,15615.192536397111
+2273,MU,Micron Technology Inc,Semiconductors,US,62140.16731532716
+2318,NDAQ,Nasdaq Inc,Financial Services,US,29316.382036427403
+2321,NDSN,Nordson Corp,Machinery,US,12800.320971413565
+2335,NFE,New Fortress Energy Inc,Energy ,US,11548.429574159036
+2336,NFLX,Netflix Inc,Media,US,100552.3795860912
+2351,NLOK,NortonLifeLock Inc,Technology,US,13050.064157716564
+2387,NTAP,NetApp Inc,Technology,US,15662.686622487809
+2396,NTRS,Northern Trust Corp,Financial Services,US,19459.134510273467
+2410,NVDA,NVIDIA Corp,Semiconductors,US,339810.2880949828
+2457,ODFL,Old Dominion Freight Line Inc,Road & Rail,US,30428.200340235
+2470,OKTA,Okta Inc,Technology,US,10197.259069377556
+2488,ON,ON Semiconductor Corp,Semiconductors,US,29247.791215527563
+2521,ORLY,O'Reilly Automotive Inc,Retail,US,44493.76371754017
+2564,PANW,Palo Alto Networks Inc,Technology,US,53723.40535960526
+2566,PARA,Paramount Global,Media,US,15122.94540110145
+2575,PAYX,Paychex Inc,Technology,US,43512.73941681369
+2584,PCAR,Paccar Inc,Machinery,US,30067.240732146907
+2593,PCTY,Paylocity Holding Corp,Technology,US,13032.813985743293
+2613,PEP,PepsiCo Inc,Beverages,US,235525.28691815172
+2627,PFG,Principal Financial Group Inc,Insurance,US,18553.227308306912
+2671,PLUG,Plug Power Inc,Electrical Equipment,US,14970.863821260951
+2690,PODD,Insulet Corp,Health Care,US,17652.8062382241
+2694,POOL,Pool Corp,Distributors,US,13456.85479888592
+2748,PTC,PTC Inc,Technology,US,13514.50761722396
+2779,PYPL,PayPal Holdings Inc,Technology,US,105389.64656005288
+2783,QCOM,Qualcomm Inc,Semiconductors,US,144283.03796678816
+2854,REG,Regency Centers Corp,Real Estate,US,10466.118698
+2855,REGN,Regeneron Pharmaceuticals Inc,Biotechnology,US,63292.41354767283
+2872,RGEN,Repligen Corp,Life Sciences Tools & Services,US,11672.01883483207
+2885,RIVN,Rivian Automotive Inc,Automobiles,US,29387.85334199249
+2920,ROST,Ross Stores Inc,Retail,US,30580.06809994938
+2926,RPRX,Royalty Pharma PLC,Pharmaceuticals,US,25469.069621385035
+2977,SBAC,SBA Communications Corp,Real Estate,US,35211.490064
+2985,SBNY,Signature Bank,Banking,US,10778.313615813691
+2990,SBUX,Starbucks Corp,"Hotels, Restaurants & Leisure",US,95165.35972550164
+3038,SGEN,Seagen Inc,Biotechnology,US,28096.898472999488
+3075,SIRI,Sirius XM Holdings Inc,Media,US,23637.918627101142
+3078,SIVB,SVB Financial Group,Banking,US,23343.419206133007
+3134,SNPS,Synopsys Inc,Technology,US,50546.37319304785
+3164,SPLK,Splunk Inc,Technology,US,14208.590439002037
+3198,SSNC,SS&C Technologies Holdings Inc,Technology,US,14159.06217297228
+3218,STLD,Steel Dynamics Inc,Metals & Mining,US,14232.679858631496
+3248,SWAV,Shockwave Medical Inc,Health Care,US,10497.547569431115
+3254,SWKS,Skyworks Solutions Inc,Semiconductors,US,15787.845196296816
+3311,TECH,Bio-Techne Corp,Life Sciences Tools & Services,US,12941.146883399802
+3317,TER,Teradyne Inc,Semiconductors,US,13019.151553449628
+3364,TMUS,T-Mobile US Inc,Telecommunication,US,178048.77579601042
+3389,TRMB,Trimble Inc,Electrical Equipment,US,15384.479049100635
+3396,TROW,T Rowe Price Group Inc,Financial Services,US,26898.28329563429
+3406,TSCO,Tractor Supply Co,Retail,US,20823.61506882168
+3410,TSLA,Tesla Inc,Automobiles,US,846694.9319708706
+3415,TTD,Trade Desk Inc,Technology,US,29915.42401753886
+3423,TTWO,Take-Two Interactive Software Inc,Media,US,19774.51845639629
+3428,TW,Tradeweb Markets Inc,Financial Services,US,15652.612629594758
+3438,TXN,Texas Instruments Inc,Semiconductors,US,148934.30906839194
+3445,UAL,United Airlines Holdings Inc,Airlines,US,11537.355102061398
+3461,UHAL,Amerco,Road & Rail,US,10224.08766538287
+3467,ULTA,Ulta Beauty Inc,Retail,US,21670.790773998822
+3496,UTHR,United Therapeutics Corp,Biotechnology,US,10146.038806702349
+3598,VRSK,Verisk Analytics Inc,Professional Services,US,29001.48822628571
+3599,VRSN,Verisign Inc,Technology,US,19466.543346777114
+3601,VRTX,Vertex Pharmaceuticals Inc,Biotechnology,US,72075.37322666713
+3612,VTRS,Viatris Inc,Pharmaceuticals,US,11458.890601081504
+3634,WBA,Walgreens Boots Alliance Inc,Retail,US,30482.33069411685
+3635,WBD,Warner Bros Discovery Inc,Media,US,31704.3606124928
+3636,WDAY,Workday Inc,Technology,US,40586.23907684822
+3637,WDC,Western Digital Corp,Technology,US,13098.614114838054
+3666,WMG,Warner Music Group Corp,Media,US,13792.812556134775
+3697,XEL,Xcel Energy Inc,Utilities,US,40701.62410107319
+3738,ZBRA,Zebra Technologies Corp,Electrical Equipment,US,15412.685622666751
+3747,ZI,ZoomInfo Technologies Inc,Media,US,16682.315067451116
+3754,ZM,Zoom Video Communications Inc,Technology,US,24046.750977493597
+3756,ZS,Zscaler Inc,Technology,US,20587.114051017103
+3765,A,Agilent Technologies Inc,Life Sciences Tools & Services,US,38237.61772126959
+3771,AAP,Advance Auto Parts Inc,Retail,US,10324.10439554702
+3776,ABBV,Abbvie Inc,Biotechnology,US,240956.19356054664
+3777,ABC,Amerisourcebergen Corp,Health Care,US,30614.092180801574
+3782,ABT,Abbott Laboratories,Health Care,US,179500.01570297594
+3792,ACI,Albertsons Companies Inc,Retail,US,14696.387231535457
+3794,ACM,AECOM,Construction,US,10008.694752369303
+3804,ADM,Archer-Daniels-Midland Co,Food Products,US,49110.80144288594
+3808,AEE,Ameren Corp,Utilities,US,24010.38052235148
+3814,AES,AES Corp,Utilities,US,17466.46533039265
+3818,AFG,American Financial Group Inc,Insurance,US,10834.348429821606
+3823,AFL,Aflac Inc,Insurance,US,37535.84062094758
+3835,AGR,Avangrid Inc,Utilities,US,18975.516529779048
+3845,AIG,American International Group Inc,Insurance,US,39853.40989279384
+3855,AJG,Arthur J. Gallagher & Co.,Insurance,US,37959.33893166553
+3862,ALB,Albemarle Corp,Chemicals,US,30439.423454875
+3870,ALL,Allstate Corp,Insurance,US,32835.508504271194
+3873,ALLY,Ally Financial Inc,Financial Services,US,10085.84095351967
+3884,AME,AMETEK Inc,Electrical Equipment,US,27051.212112417583
+3886,AMH,American Homes 4 Rent,Real Estate,US,12332.304989
+3890,AMP,Ameriprise Financial Inc,Financial Services,US,29033.788011255227
+3897,AMT,American Tower Corp,Real Estate,US,119953.819359
+3903,ANET,Arista Networks Inc,Communications,US,35692.09718106754
+3914,APD,Air Products and Chemicals Inc,Chemicals,US,54680.102714929366
+3918,APH,Amphenol Corp,Electrical Equipment,US,43172.62351875125
+3921,APO,Apollo Global Management Inc,Financial Services,US,31404.48072396498
+3929,AR,Antero Resources Corp,Energy ,US,12097.825693270905
+3934,ARE,Alexandria Real Estate Equities Inc,Real Estate,US,24760.790199
+3935,ARES,Ares Management Corp,Financial Services,US,12511.274300752188
+3973,ATO,Atmos Energy Corp,Utilities,US,16024.619494282972
+3984,AVB,Avalonbay Communities Inc,Real Estate,US,28519.914843
+3990,AVTR,Avantor Inc,Life Sciences Tools & Services,US,16513.851062976337
+3991,AVY,Avery Dennison Corp,Packaging,US,15071.43823781144
+3995,AWK,American Water Works Company Inc,Utilities,US,26926.210956038816
+4002,AXP,American Express Co,Financial Services,US,112304.7238253915
+4009,AZO,Autozone Inc,Retail,US,41330.863473210346
+4014,BA,Boeing Co,Aerospace & Defense,US,90152.41203866377
+4016,BAC,Bank of America Corp,Banking,US,268618.04186249623
+4018,BAH,Booz Allen Hamilton Holding Corp,Professional Services,US,12588.346951703998
+4020,BALL,Ball Corp,Packaging,US,17541.497559329022
+4027,BAX,Baxter International Inc,Health Care,US,28307.957609410856
+4041,BBY,Best Buy Co Inc,Retail,US,16018.480436405012
+4054,BDX,Becton Dickinson and Co,Health Care,US,72108.73651615874
+4059,BEN,Franklin Resources Inc,Financial Services,US,12902.46590309757
+4073,BG,Bunge Ltd,Food Products,US,15039.438566970532
+4093,BHVN,Biohaven Pharmaceutical Holding Company Ltd,Biotechnology,US,10699.911804960486
+4096,BILL,Bill.com Holdings Inc,Technology,US,15688.310199153932
+4097,BIO,Bio Rad Laboratories Inc,Life Sciences Tools & Services,US,14318.032134206682
+4103,BK,Bank of New York Mellon Corp,Financial Services,US,33229.20701398065
+4107,BKI,Black Knight Inc,Technology,US,10354.846993397712
+4117,BLK,BlackRock Inc,Financial Services,US,99698.2251144449
+4128,BMY,Bristol-Myers Squibb Co,Pharmaceuticals,US,146499.86324520322
+4147,BR,Broadridge Financial Solutions Inc,Technology,US,19528.502825813284
+4156,BRO,Brown & Brown Inc,Insurance,US,17763.549920325324
+4171,BSX,Boston Scientific Corp,Health Care,US,57966.06861475141
+4191,BX,Blackstone Inc,Financial Services,US,112954.84779272928
+4195,BXP,Boston Properties Inc,Real Estate,US,12526.235353
+4202,C,Citigroup Inc,Banking,US,94843.39879390031
+4209,CAG,Conagra Brands Inc,Food Products,US,16447.08843203965
+4210,CAH,Cardinal Health Inc,Health Care,US,19345.654492641475
+4217,CARR,Carrier Global Corp,Building,US,33309.87312557376
+4219,CAT,Caterpillar Inc,Machinery,US,95461.80720359394
+4225,CBRE,CBRE Group Inc,Real Estate,US,24775.16715070461
+4231,CCI,Crown Castle Inc,Real Estate,US,74482.750244
+4233,CCK,Crown Holdings Inc,Packaging,US,11070.971203410025
+4234,CCL,Carnival Corp,"Hotels, Restaurants & Leisure",US,11470.130173459893
+4247,CE,Celanese Corp,Chemicals,US,11580.304223738018
+4255,CF,CF Industries Holdings Inc,Chemicals,US,21292.97970202168
+4256,CFG,Citizens Financial Group Inc,Banking,US,17932.37881055528
+4262,CHD,Church & Dwight Co Inc,Consumer products,US,20448.11030711172
+4273,CHWY,Chewy Inc,Retail,US,13774.875190817833
+4274,CI,Cigna Corp,Health Care,US,87781.92771058012
+4288,CL,Colgate-Palmolive Co,Consumer products,US,65501.920400676325
+4298,CLR,Continental Resources Inc,Energy ,US,25253.979498750545
+4302,CLX,Clorox Co,Consumer products,US,17593.84173068471
+4304,CMA,Comerica Inc,Banking,US,10601.634405460383
+4307,CMG,Chipotle Mexican Grill Inc,"Hotels, Restaurants & Leisure",US,44882.10708822277
+4308,CMI,Cummins Inc,Machinery,US,30013.03593056384
+4311,CMS,CMS Energy Corp,Utilities,US,19483.73128556564
+4317,CNA,CNA Financial Corp,Insurance,US,10559.74392856126
+4318,CNC,Centene Corp,Health Care,US,51466.321903004704
+4330,CNP,CenterPoint Energy Inc,Utilities,US,20005.60358339656
+4338,COF,Capital One Financial Corp,Financial Services,US,40001.48169135388
+4341,COO,Cooper Companies Inc,Health Care,US,14580.411711203717
+4343,COP,Conocophillips,Energy ,US,140364.65284232344
+4350,CPB,Campbell Soup Co,Food Products,US,14767.280017145027
+4358,CPT,Camden Property Trust,Real Estate,US,13752.775284
+4368,CRL,Charles River Laboratories International Inc,Life Sciences Tools & Services,US,10184.869060013383
+4369,CRM,Salesforce Inc,Technology,US,153689.99877772754
+4375,CSL,Carlisle Companies Inc,Building,US,15308.318988060071
+4380,CTLT,Catalent Inc,Pharmaceuticals,US,15755.262621166175
+4384,CTRA,Coterra Energy Inc,Energy ,US,23955.371556662587
+4389,CTVA,Corteva Inc,Chemicals,US,44007.06349847853
+4391,CUBE,CubeSmart,Real Estate,US,10428.125301
+4403,CVS,CVS Health Corp,Health Care,US,130547.6898417148
+4404,CVX,Chevron Corp,Energy ,US,308981.07212420803
+4420,D,Dominion Energy Inc,Utilities,US,67972.08700714582
+4422,DAL,Delta Air Lines Inc,Airlines,US,19838.664268973946
+4425,DAR,Darling Ingredients Inc,Food Products,US,12056.742566691191
+4426,DASH,DoorDash Inc,Retail,US,22481.42054036056
+4437,DD,Dupont De Nemours Inc,Chemicals,US,27429.388720196268
+4442,DE,Deere & Co,Machinery,US,110707.3530835212
+4446,DELL,Dell Technologies Inc,Technology,US,27946.370428201066
+4453,DFS,Discover Financial Services,Financial Services,US,27188.74229362885
+4454,DG,Dollar General Corp,Retail,US,54723.70304095893
+4455,DGX,Quest Diagnostics Inc,Health Care,US,14590.94668113487
+4457,DHI,D R Horton Inc,Consumer products,US,24803.230559763357
+4458,DHR,Danaher Corp,Life Sciences Tools & Services,US,195988.3220542716
+4463,DINO,HF Sinclair Corp,Energy ,US,11598.9628628636
+4464,DIS,Walt Disney Co,Media,US,202724.0184060926
+4470,DLR,Digital Realty Trust Inc,Real Estate,US,35063.756104
+4492,DOV,Dover Corp,Machinery,US,18370.005673076477
+4493,DOW,Dow Inc,Chemicals,US,35412.837813246006
+4495,DPZ,Domino's Pizza Inc,"Hotels, Restaurants & Leisure",US,13127.9389184355
+4498,DRE,Duke Realty Corp,Real Estate,US,22870.163441
+4500,DRI,Darden Restaurants Inc,"Hotels, Restaurants & Leisure",US,15612.99793696204
+4508,DT,Dynatrace Inc,Technology,US,10559.735300129854
+4509,DTE,DTE Energy Co,Utilities,US,25406.955315151125
+4517,DUK,Duke Energy Corp,Utilities,US,82379.23916359183
+4521,DVN,Devon Energy Corp,Energy ,US,46058.63361608627
+4541,ECL,Ecolab Inc,Chemicals,US,46065.65696839729
+4544,ED,Consolidated Edison Inc,Utilities,US,34919.24530604425
+4549,EDR,Endeavor Group Holdings Inc,Media,US,16060.979145375331
+4558,EFX,Equifax Inc,Professional Services,US,22950.0407093528
+4571,EIX,Edison International,Utilities,US,25922.117909696204
+4572,EL,Estee Lauder Companies Inc,Consumer products,US,88626.29968214285
+4578,ELS,Equity LifeStyle Properties Inc,Real Estate,US,13025.478363
+4579,ELV,Elevance Health Inc,Health Care,US,115677.93412545451
+4585,EMN,Eastman Chemical Co,Chemicals,US,10993.817985525662
+4587,EMR,Emerson Electric Co,Electrical Equipment,US,48338.77526116936
+4603,EOG,EOG Resources Inc,Energy ,US,71216.1264382101
+4608,EPAM,Epam Systems Inc,Technology,US,23643.41435860135
+4610,EPD,Enterprise Products Partners LP,Energy ,US,57292.46983016888
+4616,EQH,Equitable Holdings Inc,Financial Services,US,11028.277680742294
+4619,EQR,Equity Residential,Real Estate,US,27907.973419
+4621,EQT,EQT Corp,Energy ,US,17491.557413135826
+4625,ES,Eversource Energy,Utilities,US,31023.99830436447
+4633,ESS,Essex Property Trust Inc,Real Estate,US,17453.328247
+4636,ET,Energy Transfer LP,Energy ,US,36255.01945942029
+4643,ETR,Entergy Corp,Utilities,US,23641.239196257226
+4660,EVRG,Evergy Inc,Utilities,US,15692.418876284344
+4665,EW,Edwards Lifesciences Corp,Health Care,US,54982.75115247924
+4671,EXR,Extra Space Storage Inc,Real Estate,US,26908.284254
+4673,F,Ford Motor Co,Automobiles,US,60949.04246639104
+4691,FCX,Freeport-McMoRan Inc,Metals & Mining,US,40448.35213663938
+4694,FDS,Factset Research Systems Inc,Financial Services,US,16347.956563994729
+4695,FDX,FedEx Corp,Logistics & Transportation,US,54234.98257348362
+4696,FE,FirstEnergy Corp,Utilities,US,22804.38636934951
+4708,FHN,First Horizon Corp,Banking,US,12127.374838
+4710,FICO,Fair Isaac Corp,Technology,US,11105.550740516508
+4715,FIS,Fidelity National Information Services Inc,Technology,US,54699.83088456372
+4725,FLT,Fleetcor Technologies Inc,Technology,US,15686.790503367518
+4727,FMC,FMC Corp,Chemicals,US,13407.104304806591
+4736,FNF,Fidelity National Financial Inc,Insurance,US,10953.213415017242
+4750,FRC,First Republic Bank,Banking,US,26803.91285823142
+4771,FTV,Fortive Corp,Machinery,US,22255.962795161053
+4798,GD,General Dynamics Corp,Aerospace & Defense,US,61672.48767716021
+4799,GDDY,GoDaddy Inc,Technology,US,11761.956801393148
+4804,GE,General Electric Co,Industrial Conglomerates,US,79423.34306575765
+4821,GGG,Graco Inc,Machinery,US,10727.000609064376
+4835,GIS,General Mills Inc,Food Products,US,45813.99824873199
+4843,GLW,Corning Inc,Electrical Equipment,US,28022.29463622675
+4844,GM,General Motors Co,Automobiles,US,56091.14511180861
+4852,GNRC,Generac Holdings Inc,Electrical Equipment,US,14259.188292490322
+4863,GPC,Genuine Parts Co,Distributors,US,22240.017339852024
+4867,GPN,Global Payments Inc,Technology,US,34924.98841929756
+4876,GS,Goldman Sachs Group Inc,Financial Services,US,113845.7377537665
+4891,GWW,WW Grainger Inc,Trading Companies & Distributors,US,28249.283646599717
+4901,HCA,HCA Healthcare Inc,Health Care,US,57413.5720237106
+4905,HD,Home Depot Inc,Retail,US,298825.7429876164
+4908,HEI,HEICO Corp,Aerospace & Defense,US,18249.163906831596
+4911,HES,Hess Corp,Energy ,US,37435.53641894693
+4921,HIG,Hartford Financial Services Group Inc,Insurance,US,21001.02344894813
+4938,HLT,Hilton Worldwide Holdings Inc,"Hotels, Restaurants & Leisure",US,34968.901979089605
+4952,HPE,Hewlett Packard Enterprise Co,Technology,US,17203.134935682872
+4956,HPQ,HP Inc,Technology,US,28583.579472205893
+4961,HR,Healthcare Realty Trust Inc,Real Estate,US,10156.86
+4964,HRL,Hormel Foods Corp,Food Products,US,25331.519177356324
+4969,HSY,Hershey Co,Food Products,US,45926.53843787397
+4979,HUBB,Hubbell Inc,Electrical Equipment,US,11075.868498752376
+4980,HUBS,HubSpot Inc,Technology,US,15143.33639414419
+4982,HUM,Humana Inc,Health Care,US,61302.61156978273
+4987,HWM,Howmet Aerospace Inc,Aerospace & Defense,US,14547.414341901858
+5003,IBM,International Business Machines Corp,Technology,US,115417.4213221764
+5007,ICE,Intercontinental Exchange Inc,Financial Services,US,56560.65226570442
+5013,IEX,IDEX Corp,Machinery,US,15096.629796318442
+5014,IFF,International Flavors & Fragrances Inc,Chemicals,US,27479.18275487408
+5046,INVH,Invitation Homes Inc,Real Estate,US,22308.654768
+5049,IP,International Paper Co,Packaging,US,14817.349987061
+5050,IPG,Interpublic Group of Companies Inc,Media,US,10647.699234117948
+5057,IQV,IQVIA Holdings Inc,Life Sciences Tools & Services,US,38655.63362703798
+5058,IR,Ingersoll Rand Inc,Machinery,US,19247.86426739313
+5060,IRM,Iron Mountain Inc,Real Estate,US,15484.786702
+5067,IT,Gartner Inc,Technology,US,22851.808801135485
+5072,ITW,Illinois Tool Works Inc,Machinery,US,60500.08266658488
+5079,J,Jacobs Engineering Group Inc,Professional Services,US,15159.545814527764
+5104,JNJ,Johnson & Johnson,Pharmaceuticals,US,427872.7325981436
+5111,JPM,JPMorgan Chase & Co,Banking,US,333462.82630642026
+5124,K,Kellogg Co,Food Products,US,24726.221000059984
+5137,KEY,KeyCorp,Banking,US,16368.158173897058
+5138,KEYS,Keysight Technologies Inc,Electrical Equipment,US,29379.767895118857
+5143,KIM,Kimco Realty Corp,Real Estate,US,13173.666014
+5146,KKR,KKR & Co Inc,Financial Services,US,46508.392027921545
+5148,KMB,Kimberly-Clark Corp,Consumer products,US,42702.46789187301
+5150,KMI,Kinder Morgan Inc,Energy ,US,41049.6735170941
+5154,KMX,Carmax Inc,Retail,US,13936.574085578995
+5160,KO,Coca-Cola Co,Beverages,US,264451.05761768064
+5166,KR,Kroger Co,Retail,US,34654.5888529027
+5167,KRC,Kilroy Realty Corp,Real Estate,US,11198.57639
+5181,L,Loews Corp,Insurance,US,13355.710758230049
+5193,LDOS,Leidos Holdings Inc,Professional Services,US,12795.22249763086
+5199,LEN,Lennar Corp,Consumer products,US,22095.138530060787
+5208,LH,Laboratory Corporation of America Holdings,Health Care,US,20406.896014910828
+5210,LHX,L3harris Technologies Inc,Aerospace & Defense,US,43475.43659633039
+5217,LLY,Eli Lilly and Co,Pharmaceuticals,US,286316.1784193617
+5219,LMT,Lockheed Martin Corp,Aerospace & Defense,US,110984.7615815442
+5227,LOW,Lowe's Companies Inc,Retail,US,121353.16337797376
+5233,LSI,Life Storage Inc,Real Estate,US,11078.072861
+5239,LUMN,Lumen Technologies Inc,Telecommunication,US,10198.093544841113
+5240,LUV,Southwest Airlines Co,Airlines,US,21799.68546636036
+5241,LVS,Las Vegas Sands Corp,"Hotels, Restaurants & Leisure",US,27670.091757438146
+5242,LW,Lamb Weston Holdings Inc,Food Products,US,11245.427138095823
+5248,LYV,Live Nation Entertainment Inc,Media,US,20614.67434728559
+5251,MA,Mastercard Inc,Technology,US,311714.27072610793
+5252,MAA,Mid-America Apartment Communities Inc,Real Estate,US,19274.821171
+5258,MAS,Masco Corp,Building,US,11244.41001563364
+5269,MCD,McDonald's Corp,"Hotels, Restaurants & Leisure",US,187247.3916018625
+5272,MCK,Mckesson Corp,Health Care,US,52292.01165951812
+5274,MCO,Moody's Corp,Financial Services,US,52187.39977785899
+5290,MET,MetLife Inc,Insurance,US,51892.784653235336
+5301,MGM,MGM Resorts International,"Hotels, Restaurants & Leisure",US,12917.33670115069
+5321,MKC,McCormick & Company Inc,Food Products,US,22281.519131428817
+5323,MKL,Markel Corp,Insurance,US,16028.858072398933
+5326,MLM,Martin Marietta Materials Inc,Construction,US,21244.633039389963
+5330,MMC,Marsh & McLennan Companies Inc,Insurance,US,79977.56552203839
+5333,MMM,3M Co,Industrial Conglomerates,US,69292.31813494947
+5334,MMP,Magellan Midstream Partners LP,Energy ,US,10683.27759057277
+5343,MO,Altria Group Inc,Tobacco,US,81037.04948391009
+5347,MOH,Molina Healthcare Inc,Health Care,US,19650.58120283513
+5348,MOS,Mosaic Co,Chemicals,US,18934.4522827994
+5352,MPC,Marathon Petroleum Corp,Energy ,US,49428.60355996672
+5354,MPLX,MPLX LP,Energy ,US,32937.14837054602
+5361,MRK,Merck & Co Inc,Pharmaceuticals,US,218444.71969884864
+5362,MRO,Marathon Oil Corp,Energy ,US,17420.671737541736
+5363,MS,Morgan Stanley,Financial Services,US,148333.7886452176
+5367,MSCI,MSCI Inc,Financial Services,US,36383.302811710855
+5371,MSI,Motorola Solutions Inc,Communications,US,40681.58828276591
+5375,MTB,M&T Bank Corp,Banking,US,31744.754500157625
+5377,MTD,Mettler-Toledo International Inc,Life Sciences Tools & Services,US,26895.84686459939
+5431,NEE,Nextera Energy Inc,Utilities,US,167222.35970901643
+5432,NEM,Newmont Corporation,Metals & Mining,US,33072.66551828037
+5434,NET,Cloudflare Inc,Technology,US,19225.19996424427
+5452,NI,NiSource Inc,Utilities,US,11995.911051599394
+5462,NKE,Nike Inc,"Textiles, Apparel & Luxury Goods",US,165869.32131568616
+5467,NLSN,Nielsen Holdings PLC,Professional Services,US,10021.386444291862
+5468,NLY,Annaly Capital Management Inc,Real Estate,US,11001.078901
+5484,NOC,Northrop Grumman Corp,Aerospace & Defense,US,73789.5574305409
+5492,NOW,ServiceNow Inc,Technology,US,87771.01950247715
+5511,NSC,Norfolk Southern Corp,Road & Rail,US,56195.87236609148
+5524,NUE,Nucor Corp,Metals & Mining,US,34236.29705209003
+5533,NVR,NVR Inc,Consumer products,US,13436.375160279991
+5553,O,Realty Income Corp,Real Estate,US,42273.174815
+5571,OKE,ONEOK Inc,Energy ,US,27057.50721306284
+5575,OMC,Omnicom Group Inc,Media,US,13572.88103260504
+5593,ORCL,Oracle Corp,Technology,US,199016.68364229213
+5601,OTIS,Otis Worldwide Corp,Machinery,US,30322.81728630968
+5604,OVV,Ovintiv Inc,Energy ,US,13419.276007265387
+5605,OWL,Blue Owl Capital Inc,Financial Services,US,15107.018012007273
+5608,OXY,Occidental Petroleum Corp,Energy ,US,64058.70237373083
+5621,PAYC,Paycom Software Inc,Technology,US,20676.67630879984
+5631,PCG,PG&E Corp,Utilities,US,24945.235540411017
+5646,PEAK,Healthpeak Properties Inc,Real Estate,US,14317.046054
+5648,PEG,Public Service Enterprise Group Inc,Utilities,US,31932.04028530542
+5653,PFE,Pfizer Inc,Pharmaceuticals,US,256484.49459620623
+5655,PRU,Prudential Financial Inc,Insurance,US,35299.080453617564
+5662,PG,Procter & Gamble Co,Consumer products,US,327751.2190463023
+5664,PGR,Progressive Corp,Insurance,US,71599.46310775483
+5670,PH,Parker-Hannifin Corp,Machinery,US,34010.10180247555
+5686,PINS,Pinterest Inc,Media,US,14863.304595945914
+5692,PKG,Packaging Corp of America,Packaging,US,12758.941364280996
+5693,PKI,PerkinElmer Inc,Life Sciences Tools & Services,US,16988.481070976723
+5696,PLD,Prologis Inc,Real Estate,US,94671.231671
+5699,PLTR,Palantir Technologies Inc,Technology,US,15274.799719813083
+5701,PM,Philip Morris International Inc,Tobacco,US,146536.94469116605
+5709,PNC,PNC Financial Services Group Inc,Banking,US,64491.9966449716
+5722,PPG,PPG Industries Inc,Chemicals,US,29083.275403774533
+5723,PPL,PPL Corp,Utilities,US,21305.187263963115
+5740,PSA,Public Storage,Real Estate,US,59294.532674
+5748,PSX,Phillips 66,Energy ,US,42553.78000782022
+5756,PWR,Quanta Services Inc,Construction,US,20109.027542238677
+5759,PXD,Pioneer Natural Resources Co,Energy ,US,57700.121674924296
+5780,RBLX,Roblox Corp,Media,US,22641.280823747074
+5788,RCL,Royal Caribbean Cruises Ltd,"Hotels, Restaurants & Leisure",US,10457.426900415445
+5802,REXR,Rexford Industrial Realty Inc,Real Estate,US,10643.791881
+5804,RF,Regions Financial Corp,Banking,US,19883.952510540694
+5822,RJF,Raymond James Financial Inc,Financial Services,US,22337.88666257651
+5824,RKT,Rocket Companies Inc,Financial Services,US,14968.39819
+5833,RMD,Resmed Inc,Health Care,US,31624.868247704115
+5844,ROK,Rockwell Automation Inc,Electrical Equipment,US,27474.773231874755
+5845,ROL,Rollins Inc,Commercial Services & Supplies,US,16614.161598393446
+5847,ROP,Roper Technologies Inc,Technology,US,42501.38565352063
+5849,RPM,RPM International Inc,Chemicals,US,11937.180584380763
+5855,RS,Reliance Steel & Aluminum Co,Metals & Mining,US,11089.297133149092
+5857,RSG,Republic Services Inc,Commercial Services & Supplies,US,45112.11901531326
+5860,RTX,Raytheon Technologies Corp,Aerospace & Defense,US,129327.86280225264
+5866,RYAN,Ryan Specialty Holdings Inc,Insurance,US,10768.3384847137
+5893,SCCO,Southern Copper Corp,Metals & Mining,US,35322.59683154772
+5895,SCHW,Charles Schwab Corp,Financial Services,US,133441.15547735026
+5930,SHW,Sherwin-Williams Co,Chemicals,US,60081.222003831965
+5942,SJM,J M Smucker Co,Food Products,US,14918.028531164166
+5972,SNA,Snap-On Inc,Machinery,US,11367.90060342093
+5973,SNAP,Snap Inc,Media,US,18501.39825492268
+5977,SNOW,Snowflake Inc.,Technology,US,54550.96812348455
+5981,SO,Southern Co,Utilities,US,84741.90031595812
+5995,SPG,Simon Property Group Inc,Real Estate,US,33170.549889
+5996,SPGI,S&P Global Inc,Financial Services,US,115934.60540198143
+6006,SQ,Block Inc,Technology,US,39147.5447895456
+6013,SRE,Sempra Energy,Utilities,US,52426.96187220047
+6045,STT,State Street Corp,Financial Services,US,24880.476567490303
+6048,STZ,Constellation Brands Inc,Beverages,US,46718.45798892372
+6051,SUI,Sun Communities Inc,Real Estate,US,18938.833221
+6060,SWK,Stanley Black & Decker Inc,Machinery,US,12678.162166715214
+6068,SYF,Synchrony Financial,Financial Services,US,15401.83592526022
+6069,SYK,Stryker Corp,Health Care,US,77086.62498020672
+6070,SYY,Sysco Corp,Retail,US,40883.59343692536
+6072,T,AT&T Inc,Telecommunication,US,122495.94000000002
+6077,TAP,Molson Coors Beverage Co,Beverages,US,11228.438316873662
+6090,TDG,TransDigm Group Inc,Aerospace & Defense,US,32605.87556645161
+6094,TDY,Teledyne Technologies Inc,Electrical Equipment,US,17232.59842206661
+6104,TFC,Truist Financial Corp,Banking,US,61664.02927709196
+6106,TFX,Teleflex Inc,Health Care,US,10449.090881754644
+6114,TGT,Target Corp,Retail,US,75759.22791922712
+6126,TJX,TJX Companies Inc,Retail,US,73750.08537198495
+6137,TMO,Thermo Fisher Scientific Inc,Life Sciences Tools & Services,US,212956.8951581824
+6151,TPL,Texas Pacific Land Corp,Energy ,US,14579.913784015444
+6161,TRGP,Targa Resources Corp,Energy ,US,15772.926294015082
+6172,TRU,TransUnion,Professional Services,US,14206.500696879186
+6173,TRV,Travelers Companies Inc,Insurance,US,38610.846257974285
+6179,TSN,Tyson Foods Inc,Food Products,US,26312.973904611878
+6194,TWLO,Twilio Inc,Technology,US,12271.238798138804
+6200,TWTR,Twitter Inc,Media,US,29561.458141336097
+6202,TXT,Textron Inc,Aerospace & Defense,US,13083.229615572398
+6205,TYL,Tyler Technologies Inc,Technology,US,15121.934357982043
+6206,U,Unity Software Inc,Technology,US,12162.059962641384
+6211,UBER,Uber Technologies Inc,Road & Rail,US,57516.62069048755
+6214,UDR,UDR Inc,Real Estate,US,14793.756488
+6222,UI,Ubiquiti Inc,Communications,US,18273.639395140068
+6229,UNH,UnitedHealth Group Inc,Health Care,US,482984.8522032152
+6232,UNP,Union Pacific Corp,Road & Rail,US,139845.74461538185
+6236,UPS,United Parcel Service Inc,Logistics & Transportation,US,170534.91389276207
+6237,URI,United Rentals Inc,Trading Companies & Distributors,US,20275.460793763174
+6240,USB,US Bancorp,Banking,US,67677.46224863309
+6258,V,Visa Inc,Technology,US,409131.9781937581
+6268,VEEV,Veeva Systems Inc,Health Care,US,26319.344895394708
+6271,VFC,VF Corp,"Textiles, Apparel & Luxury Goods",US,15831.151095429848
+6278,VICI,VICI Properties Inc,Real Estate,US,31888.024546
+6285,VLO,Valero Energy Corp,Energy ,US,44841.70350048372
+6289,VMC,Vulcan Materials Co,Construction,US,21922.01523827698
+6292,VMW,VMware Inc,Technology,US,48744.37177383087
+6306,VST,Vistra Corp,Utilities,US,10392.050068
+6311,VTR,Ventas Inc,Real Estate,US,19815.634287
+6318,VZ,Verizon Communications Inc,Telecommunication,US,173448.20857835442
+6321,WAB,Westinghouse Air Brake Technologies Corp,Machinery,US,15778.930787774174
+6324,WAT,Waters Corp,Life Sciences Tools & Services,US,17862.18462126452
+6338,WEC,WEC Energy Group Inc,Utilities,US,32492.912418191216
+6340,WELL,Welltower OP LLC,Real Estate,US,35484.844693
+6341,WES,Western Midstream Partners LP,Energy ,US,10472.79813568584
+6344,WFC,Wells Fargo & Co,Banking,US,164542.4928094325
+6355,WLK,Westlake Corp,Chemicals,US,12253.566865204491
+6359,WM,Waste Management Inc,Commercial Services & Supplies,US,69626.3999379843
+6360,WMB,Williams Companies Inc,Energy ,US,41088.838944493145
+6363,WMS,Advanced Drainage Systems Inc,Building,US,11153.408965327068
+6364,WMT,Walmart Inc,Retail,US,364572.9254294171
+6368,WOLF,Wolfspeed Inc,Semiconductors,US,13515.833371667177
+6371,WPC,WP Carey Inc,Real Estate,US,16285.370697
+6378,WRB,W R Berkley Corp,Insurance,US,17181.731785376727
+6381,WRK,Westrock Co,Packaging,US,10080.374930634833
+6382,WSM,Williams-Sonoma Inc,Retail,US,10028.398091916146
+6383,WSO,Watsco Inc,Trading Companies & Distributors,US,10609.520221789116
+6385,WST,West Pharmaceutical Services Inc,Life Sciences Tools & Services,US,21573.879785749406
+6388,WTRG,Essential Utilities Inc,Utilities,US,12888.31374724231
+6394,WY,Weyerhaeuser Co,Real Estate,US,25200.323361
+6400,XOM,Exxon Mobil Corp,Energy ,US,398384.3589271502
+6407,XYL,Xylem Inc,Machinery,US,16434.377922131283
+6408,Y,Alleghany Corp,Insurance,US,11302.850722896692
+6419,YUM,Yum! Brands Inc,"Hotels, Restaurants & Leisure",US,32079.31984760405
+6421,ZBH,Zimmer Biomet Holdings Inc,Health Care,US,22150.650479670505
+6433,ZTS,Zoetis Inc,Pharmaceuticals,US,73488.39123683721
