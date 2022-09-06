@@ -1,1 +1,0 @@
-api_key = 'cc94nsiad3i9n05k13d0'
