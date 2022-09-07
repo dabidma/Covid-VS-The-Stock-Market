@@ -13,7 +13,7 @@ We would like to determine how stocks have performed before, during, and after c
 3. Was there a change in volume during pre-covid, during covid, and after covid?
 4. Do the number of covid cases in the country affect the price of the stocks?
 5. Do different “covid milestones” have an effect on specific stocks?
-6. Can we use a linear regression analysis to predict the future price of stocks?      
+6. Can we use a linear regression analysis to predict the future price of stocks during covid?      
 7. Is there a correlation between any of the above mentioned factors with stock prices?
 8. What sector was most affected by Covid-19?
 9. Which sectors had the most sustained success?
