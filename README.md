@@ -12,12 +12,11 @@ We would like to determine how stocks have performed before, during, and after c
 2. Did different sectors perform differently pre-covid, during covid, and after covid?
 3. Was there a change in volume during pre-covid, during covid, and after covid?
 4. Do the number of covid cases in the country affect the price of the stocks?
-5. Does the growth rate in covid cases affect the price of the stocks?
-6. Do different “covid milestones” have an effect on specific stocks?
-7. Can we use a linear regression analysis to predict the future price of stocks?      
-8. Is there a correlation between any of the above mentioned factors with stock prices?
-9. What sector was most affected by Covid-19?
-10. Which sectors had the most sustained success?
+5. Do different “covid milestones” have an effect on specific stocks?
+6. Can we use a linear regression analysis to predict the future price of stocks?      
+7. Is there a correlation between any of the above mentioned factors with stock prices?
+8. What sector was most affected by Covid-19?
+9. Which sectors had the most sustained success?
 
 ## Datasets to be Used:
 Finnhub.io API for stock data and covid data https://finnhub.io/ <br>
