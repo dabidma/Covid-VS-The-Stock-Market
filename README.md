@@ -20,7 +20,11 @@ We would like to determine how stocks have performed before, during, and after c
 10. Which sectors had the most sustained success?
 
 ## Datasets to be Used:
-Finnhub.io API for stock data and covid data
+Finnhub.io API for stock data and covid data https://finnhub.io/
+Covid Data https://covid19.who.int/
+Covid Historical Data
+    -https://www.cdc.gov/museum/timeline/covid19.html
+    -https://www.ajmc.com/view/a-timeline-of-covid19-developments-in-2020
 
 ## Rough Breakdown of Tasks:
 	Pull and clean data from the API
